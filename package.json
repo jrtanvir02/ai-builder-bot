@@ -1,0 +1,13 @@
+
+{
+  "name": "ai-builder-bot",
+  "version": "1.0.0",
+  "description": "AI Android App and Website Builder Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
